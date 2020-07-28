@@ -9,7 +9,7 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+
 
 
 <!--
@@ -20,6 +20,9 @@
 [![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
 ### 🚀 Things I do
 [![github stats](https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&hide_border=False)](https://github.com/Defcon27/)
+
+[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
+![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 
 **Languages and Tools:** 
 
