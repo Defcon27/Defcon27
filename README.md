@@ -12,9 +12,10 @@
 
 
 
-
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img height="270" src="sss.svg" align=right>
 
 [![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
 ### 🚀 Things I do
