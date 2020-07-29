@@ -31,7 +31,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi I am happy to help
-- 📙 Check out my [resume](resume.pdf)
+- 📙 Check out my [Resume](Hemanth%20Kollipara.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">. I watch a lot Sci-Fi Movies<img width="30" src="https://emojis.slackmojis.com/emojis/images/1471119458/990/party_parrot.gif"> 
 
 
