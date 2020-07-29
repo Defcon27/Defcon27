@@ -18,7 +18,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 ## ⚡️ A Few Quick Facts
 
-<img width="400" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<img width="490" height="290" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - 🔭 I’m currently working on Sentiment analysis
 - 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
@@ -27,9 +27,13 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
   - 📊 Machine Learning Data Science
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
-- 👯 I’m looking to collaborate on making interesting projects with hardware
 - 📝 I write technical blogs and articles
-- 📙 Check out my [resume](resume.pdf).
+- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about Python, ML, CV, Raspi I am happy to help
+- 📙 Check out my [resume](resume.pdf)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">. I watch a lot Sci-Fi Movies<img width="30" src="https://emojis.slackmojis.com/emojis/images/1471119458/990/party_parrot.gif"> 
+
 
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
