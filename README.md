@@ -18,10 +18,11 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="290" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
 - 🔭 I’m currently working on Sentiment analysis
 - 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
+
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🖼 Computer Vision
   - 📊 Machine Learning Data Science
@@ -30,7 +31,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi I am happy to help
+- 💬 Ask me about Python, ML, CV, Raspi
 - 📙 Check out my [Resume](Hemanth%20Kollipara.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">. I watch a lot Sci-Fi Movies<img width="30" src="https://emojis.slackmojis.com/emojis/images/1471119458/990/party_parrot.gif"> 
 
