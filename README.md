@@ -11,7 +11,16 @@
 
 
 ### A little more about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building👨‍💻 interesting and amazing products that serve a great deal of purpose for the world🌍. 
+I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building👨‍💻 interesting and amazing products that serve a great deal of purpose for the world🌍. <br/>
+
+
+
+
+
+## ⚡️ A Few Quick Facts
+<img width="400" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🔭 I’m currently working on Sentiment analysis project
+- 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
 
 
 <!--
