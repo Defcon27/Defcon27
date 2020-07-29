@@ -1,4 +1,5 @@
-<h1>Howdy!, I am <a href="https://github.com/Defcon27">Hemanth</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Hemanth</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></h1>
+</h1>
 
 #### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
@@ -11,21 +12,27 @@
 
 
 
-
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+pic on right
 <img height="270" src="sss.svg" align=right>
 
+
+views
+![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 [![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
+
+
+
 ### 🚀 Things I do
 [![github stats](https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&hide_border=False)](https://github.com/Defcon27/)
 
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+
+
+
 
 **Languages and Tools:** 
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code
 
@@ -40,4 +47,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+social
+<a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+
+
 -->
