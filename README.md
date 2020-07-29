@@ -24,8 +24,8 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
-  - 📊 Machine Learning Data Science
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
