@@ -22,8 +22,13 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 - 🔭 I’m currently working on Sentiment analysis
 - 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
-
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 🖼 Computer Vision
+  - 📊 Machine Learning Data Science
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 👯 I’m looking to collaborate on making interesting projects with hardware
+- 📝 I write technical blogs and articles
 - 📙 Check out my [resume](resume.pdf).
 
 <!--
@@ -32,7 +37,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 pic on right
 <img height="270" src="sss.svg" align=right>
 typing gif
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 blinking light
 <img src="https://emojis.slackmojis.com/emojis/images/1476436884/1251/idea.gif" width="30">
 
