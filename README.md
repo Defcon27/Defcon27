@@ -10,6 +10,10 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
 
 
+### A little more about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)**. <br />
+I'm a **Tech Enthusiast** passionate about learning and working with new tech 💻 😃.<br/>
+I love building interesting and amazing products ⚡ that serve a great deal of purpose for the world🌍. 
 
 
 <!--
@@ -17,8 +21,15 @@
 
 pic on right
 <img height="270" src="sss.svg" align=right>
+typing gif
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+blinking light
+<img src="https://emojis.slackmojis.com/emojis/images/1476436884/1251/idea.gif" width="30">
 
 
+I would love to continue my passion for learning🧠 and developing skills to build more products that help people.
+ I look forward to absorb knowledge,gain experience👨‍, collaborate🤝 and build stuff
+ 
 views
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 [![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
