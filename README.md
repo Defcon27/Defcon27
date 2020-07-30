@@ -61,17 +61,15 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 
 ### 🚀 Things I do
-[![github stats](https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&hide_border=False)](https://github.com/Defcon27/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
+
+
+
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-
-
-
-
-
-
 
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
