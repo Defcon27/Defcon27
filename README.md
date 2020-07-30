@@ -19,10 +19,9 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on NLP Project
-
+- 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-- 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
