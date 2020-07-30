@@ -60,12 +60,11 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 </details>
 
 
-### 🚀 Things I do
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+### 🚀 Quick Stats
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&theme=default&line_height=27&layout=compact" />
+</p>
 
 
 
@@ -81,11 +80,6 @@ pic on right
 views
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 [![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
-
-
-### 🚀 Things I do
-[![github stats](https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&hide_border=False)](https://github.com/Defcon27/)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Defcon27&count_private=true&show_icons=true)
 
 
 social modded badge
