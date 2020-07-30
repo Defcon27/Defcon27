@@ -35,6 +35,10 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 - 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">and watch a lot Sci-Fi Movies🎬
 
 
+
+<details>
+  <summary>Some more stuff 😄</summary>
+  
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/DELL-555555.svg?&style=flat-square&logo=dell&logoColor=007DB8"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
@@ -49,40 +53,41 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>
+  
+</details>
 
 
-
+### 🚀 Things I do
+[![github stats](https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&hide_border=False)](https://github.com/Defcon27/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&layout=compact)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+
+
+
+
+
+
+
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 pic on right
 <img height="270" src="sss.svg" align=right>
 
-
-
-I would love to continue my passion for learning🧠 and developing skills to build more products that help people.
- I look forward to absorb knowledge,gain experience👨‍, collaborate🤝 and build stuff
  
 views
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 [![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
 
 
-
 ### 🚀 Things I do
 [![github stats](https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&hide_border=False)](https://github.com/Defcon27/)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Defcon27&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&hide=TeX)
-
-
-
-
 
 
 social modded badge
