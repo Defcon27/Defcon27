@@ -70,13 +70,13 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 
 
-
-#### 💥 Working on
+<details>
+<summary> 💥 Working on </summary>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true" />
 </p>
-
+</details>
 
 
 
