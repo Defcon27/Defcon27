@@ -72,8 +72,9 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 <details>
 <summary> 💥 Working on </summary>
+<br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true" />&ensp;
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true" />
 </p>
 </details>
