@@ -67,8 +67,18 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 </p>
 
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+
+
+
+#### 💥 Working on
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true" />
+</p>
+
+
+
 
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
