@@ -62,8 +62,8 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&theme=react&line_height=27&layout=compact" />
 </p>
 
 
@@ -75,10 +75,10 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 <br>
 <p align="center">
 <a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
 </a>&ensp;
 <a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
 </a>
 </p>
 </details>
