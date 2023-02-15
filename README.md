@@ -58,16 +58,16 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<!-- <img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
 
-<details>
+<!-- <details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
@@ -78,7 +78,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
 </a>
 </p>
-</details>
+</details> -->
 
 
 
