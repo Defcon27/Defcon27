@@ -19,10 +19,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
+- 🔭 I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
@@ -30,8 +27,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
+- 💬 Ask me about Python, ML, DL, CV, NLP
 - 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
